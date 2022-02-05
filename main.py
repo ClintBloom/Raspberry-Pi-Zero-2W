@@ -15,7 +15,7 @@ request_pishop_url = 'https://www.pishop.us/product/raspberry-pi-zero-2-w/'
 # PiShop
 pishop_payload = {
     'login_email': '<Your email>',
-    'login_pass': '<Your email>'
+    'login_pass': '<Your pass>'
 }
 
 
